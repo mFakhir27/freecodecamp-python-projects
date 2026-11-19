@@ -13,7 +13,16 @@ A collection of Python mini-projects and workshops completed as part of the **fr
   * Type conversion (`str()`)
   * Formatted string literals (`f-strings`)
   * String slicing using positive and negative indexing
-
+  
+### 2. Employee Profile Validator
+* **File:** `employee_profile_validator.py`
+* **Description:** A Python script that cleans, formats, and validates employee profile data including names, emails, phone numbers, addresses, and employee codes.
+* **Concepts Practiced:**
+  * String searching and membership (`find()`, `in`)
+  * Cleaning and case formatting (`strip()`, `lower()`, `upper()`, `title()`)
+  * Modifying and restructuring strings (`replace()`, `split()`, `join()`)
+  * Validation and counting (`startswith()`, `endswith()`, `count()`)
+  * Dynamic string slicing
 ---
 
 ## Tech Stack
