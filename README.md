@@ -23,6 +23,14 @@ A collection of Python mini-projects and workshops completed as part of the **fr
   * Modifying and restructuring strings (`replace()`, `split()`, `join()`)
   * Validation and counting (`startswith()`, `endswith()`, `count()`)
   * Dynamic string slicing
+    
+### 3. Build a Bill Splitter** | Calculates total restaurant bill with a 25% tip, splits it among friends, and rounds to 2 decimal places. | [main.py](./bill-splitter/main.py) |
+
+* **concepts Practiced:**
+- Variables and basic arithmetic operators
+- Augmented assignment operators (`+=`)
+- String formatting with f-strings
+- Rounding floating-point numbers with `round()`
 ---
 
 ## Tech Stack
