@@ -33,5 +33,7 @@ A collection of Python mini-projects and workshops completed as part of the **fr
 - Rounding floating-point numbers with `round()`
 ---
 
+
+
 ## Tech Stack
 * Python 3
