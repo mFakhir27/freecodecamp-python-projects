@@ -33,6 +33,25 @@ A collection of Python mini-projects and workshops completed as part of the **fr
 - Rounding floating-point numbers with `round()`
 ---
 
+### 4. Movie Ticket Calculator
+* **File:** `movie_ticket_calculator.py`
+* **Description:** A Python script that calculates the final price of a movie ticket based on age, seat type (e.g., Gold, Standard), show time, and applicable discounts or service charges.
+* **Concepts Practiced:**
+  * Conditional statements (`if`, `elif`, `else`)
+  * Nested conditionals
+  * Comparison operators (`>=`, `<=`, `==`)
+  * Logical operators (`and`, `or`)
+  * Variables and arithmetic calculations
+
+### 5. Travel Weather Planner
+* **File:** `./travel-weather-planner`
+* **Description:** A Python script that determines whether a trip is feasible based on travel distance, weather conditions (rain), and available transportation options (bike, car, or ride-share app).
+* **Concepts Practiced:**
+  * Boolean values (`True`, `False`) and truthy/falsy evaluation
+  * Multi-branch conditional logic (`if`, `elif`, `else`)
+  * Logical operators (`and`, `or`, `not`)
+  * Chained comparison operators (e.g., `1 < distance_mi <= 6`)
+
 
 
 ## Tech Stack
